@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d75a2965-4e81-4aa7-b5cc-3f6d581c23bb" name="Changes" comment="" />
+    <list default="true" id="d75a2965-4e81-4aa7-b5cc-3f6d581c23bb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +26,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/bilal_elhalawaty/Documents/complete-node-bootcamp-master",
+    "last_opened_file_path": "/home/bilal_elhalawaty/Documents/nodeJsFromScratch",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,7 +44,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681269866569</updated>
-      <workItem from="1681269867572" duration="606000" />
+      <workItem from="1681269867572" duration="931000" />
+      <workItem from="1681270804735" duration="17000" />
     </task>
     <servers />
   </component>
