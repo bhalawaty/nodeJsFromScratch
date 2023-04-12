@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d75a2965-4e81-4aa7-b5cc-3f6d581c23bb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OJDc2kAIE014lAB8eOmnaNoSwo" />
   <component name="ProjectLevelVcsManager">
@@ -45,11 +50,23 @@
       <updated>1681269866569</updated>
       <workItem from="1681269867572" duration="931000" />
       <workItem from="1681270804735" duration="17000" />
-      <workItem from="1681270892941" duration="444000" />
+      <workItem from="1681270892941" duration="2475000" />
     </task>
+    <task id="LOCAL-00001" summary="add morgan dev middleware">
+      <created>1681271405741</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681271405741</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add morgan dev middleware" />
+    <option name="LAST_COMMIT_MESSAGE" value="add morgan dev middleware" />
   </component>
 </project>
