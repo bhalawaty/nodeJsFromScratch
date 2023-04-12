@@ -1,1 +1,28 @@
-node_modules/
+# dependencies
+/node_modules
+
+# build output
+/build
+
+# environment variables
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# log files
+*.log
+logs/
+log/
+
+# testing artifacts
+/coverage
+
+# compiled binary addons
+/build/Release
+
+# misc
+.DS_Store
+Thumbs.db
