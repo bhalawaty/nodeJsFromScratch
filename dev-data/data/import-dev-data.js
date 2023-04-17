@@ -5,8 +5,10 @@ const Tour = require('./../../models/tourModel');
 
 dotenv.config({path: './.env'});
 
-const DB = 'mongodb+srv://bilalhalawaty:kgjvR5XhgVFw5v66@cluster0.hpoufi2.mongodb.net/natours?retryWrites=true&w=majority';
-
+const DB = process.env.DATABASE.replace(
+    '<PASSWORD>',
+    process.env.DATABASE_PASSWORD
+);
 mongoose
     .connect(DB, {
         useNewUrlParser: true,
